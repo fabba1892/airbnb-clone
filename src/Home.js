@@ -50,3 +50,4 @@ function Home() {
 }
 
 export default Home;
+// created home and header components and there styling 

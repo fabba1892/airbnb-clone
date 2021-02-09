@@ -33,3 +33,4 @@ function Header() {
 }
 
 export default Header;
+// created home and header components and there styling 
