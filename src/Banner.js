@@ -32,3 +32,5 @@ function Banner() {
 }
 
 export default Banner;
+
+// installed reactdate-range-picker with functionality and created buttons and styling 
