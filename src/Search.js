@@ -42,3 +42,5 @@ function Search() {
 }
 
 export default Search;
+
+// installed reactdate-range-picker with functionality and created buttons and styling 

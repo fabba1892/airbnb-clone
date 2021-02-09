@@ -44,3 +44,4 @@ function SearchResult({
 }
 
 export default SearchResult;
+// created search page with the serach result and the jrouter link for react-router-dom
